@@ -55,7 +55,7 @@ public class Main {
         // задача 1
         int currentYear = 1402;
             year(currentYear);
-        // задача 2
+        // задача2
             int clientOS = 0;
             int clientDeviceYear = 2014;
             getClientOS(clientOS, clientDeviceYear);
